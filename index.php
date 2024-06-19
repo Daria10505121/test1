@@ -19,6 +19,7 @@ echo $name . $surname;
 echo $name , $surname;
 echo "My name:" . $name;
 echo "My name:\n" . $name, " " . $surname;
+print "Daria";
 // kfgsjkh 
 
 ?>
